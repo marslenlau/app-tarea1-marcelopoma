@@ -1,0 +1,12 @@
+[
+    {
+      "icon": "american-football",
+      "name": "Action Sheet",
+      "redirectTo": "/action-sheet"
+    },
+    {
+      "icon": "alert-circle",
+      "name": "Alert",
+      "redirectTo": "/alert"
+    }
+]
